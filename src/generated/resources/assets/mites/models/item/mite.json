@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "Layer0": "mites:item/mite"
+  }
+}
